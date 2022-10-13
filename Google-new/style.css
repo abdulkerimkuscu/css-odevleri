@@ -1,6 +1,6 @@
+/**** Header And Navbar ****/
 .header{
     background-color: #fff;
-    /* border: 1px solid black; */
     display: block;
     margin: auto;
     width: auto;
@@ -44,11 +44,10 @@
 .btn-1:hover{
     box-shadow: 1px 1px 1px 1px lightslategray;
 }
-
+/* Search Area & Logo */
 .search-area{
     width: auto;
     padding-top: 80px;
-    /* border: 1px solid black; */
     height: 400px;
     text-align: center;
 }
@@ -73,7 +72,7 @@
     background-color: rgb(223, 219, 219);
     border: 0.5px solid rgb(171, 170, 170);
 }
-
+/**** Footer  ****/
 .footer{
     border: 1px solid transparent;
     border-radius: 2px;
